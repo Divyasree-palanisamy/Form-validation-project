@@ -1,0 +1,1 @@
+It contains the logic of checking whether the data entered by user in the form is of correct format and filled all the details or not.If no then it will not redirect to any other page,it will just gets stuck in that page until the user enters the valid values in the form
